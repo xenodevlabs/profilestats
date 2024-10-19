@@ -25,8 +25,8 @@
 
 ## My Stats
 
-![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freech-dev&show_icons=true&count_private=true&theme=transparent)
+![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xenodevlabs&show_icons=true&count_private=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freech-dev&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xenodevlabs&layout=compact&theme=transparent)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Freech)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xenodevlabs)](https://github.com/anuraghazra/github-readme-stats)
